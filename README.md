@@ -1,1 +1,1 @@
-# 使用reveal.js來做一個簡單選擇collection util的互動式簡報
+# 使用reveal.js做的選擇collection util的互動式簡報
